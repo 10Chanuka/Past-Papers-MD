@@ -595,8 +595,5 @@ case 'his_2020': {
    ElisaBotMd.sendMessage(m.chat, { document: { url:PAPER }, mimetype: 'application/pdf', fileName: 'his_2020.pdf'}, { quoted: m })
 
 }
-<<<<<<< HEAD
+
 break
-=======
-break
->>>>>>> eb1583cdf617fbe7f91fbf722f1b8f02a2869b03
